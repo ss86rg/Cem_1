@@ -1,0 +1,15 @@
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\bin\Debug\net6.0\СЕМ 4.exe
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\bin\Debug\net6.0\СЕМ 4.deps.json
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\bin\Debug\net6.0\СЕМ 4.runtimeconfig.json
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\bin\Debug\net6.0\СЕМ 4.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\bin\Debug\net6.0\СЕМ 4.pdb
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.csproj.AssemblyReference.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.AssemblyInfoInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.AssemblyInfo.cs
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.csproj.CoreCompileInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\refint\СЕМ 4.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.pdb
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\СЕМ 4.genruntimeconfig.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\СЕМ 4\obj\Debug\net6.0\ref\СЕМ 4.dll

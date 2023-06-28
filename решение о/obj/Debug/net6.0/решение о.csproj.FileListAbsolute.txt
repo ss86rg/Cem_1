@@ -1,0 +1,15 @@
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.csproj.AssemblyReference.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.AssemblyInfoInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.AssemblyInfo.cs
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.csproj.CoreCompileInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\bin\Debug\net6.0\решение о.exe
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\bin\Debug\net6.0\решение о.deps.json
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\bin\Debug\net6.0\решение о.runtimeconfig.json
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\bin\Debug\net6.0\решение о.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\bin\Debug\net6.0\решение о.pdb
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\refint\решение о.dll
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.pdb
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\решение о.genruntimeconfig.cache
+C:\Users\VIKSER\Desktop\ДЗ_С\решение о\obj\Debug\net6.0\ref\решение о.dll
